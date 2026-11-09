@@ -25,8 +25,7 @@
     "wof:belongsto":[
         102191569,
         85632605,
-        102032341,
-        85677041
+        102032341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +40,7 @@
             "campus_id":1360695641,
             "continent_id":102191569,
             "country_id":85632605,
-            "locality_id":102032341,
-            "region_id":85677041
+            "locality_id":102032341
         }
     ],
     "wof:id":1360695641,
